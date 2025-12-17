@@ -1,7 +1,6 @@
 #include "snake.h"
 
 int main() {
-    SnakeGame game;
-    game.run();
-    return 0;
+    runGame();
+    return 0;   
 }
