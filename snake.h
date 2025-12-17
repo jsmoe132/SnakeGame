@@ -6,7 +6,7 @@ using namespace std;
 const int WIDTH = 20; 
 const int HEIGHT = 20;
 
-struct Postion {
+struct Position {
     int row;
     int col;
 };
